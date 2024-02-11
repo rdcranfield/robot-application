@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8df1f84e_002D3b2d_002D4d91_002Db64e_002D24cc8f4dd04d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::88F64FCB-EBE9-4E86-9860-161A8A3874E6::net8.0::robot_application_v1_tests.IntegrationTests.RobotControllerTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::88F64FCB-EBE9-4E86-9860-161A8A3874E6::net8.0::robot_application_v1_tests.UnitTests.DbTests.ExecutionRepositoryUnitTests.GetAll_WhenCalled_ReturnsAllItems&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::88F64FCB-EBE9-4E86-9860-161A8A3874E6::net8.0::robot_application_v1_tests.IntegrationTests.RobotControllerTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48CEF680-8E09-45AE-9F72-8228974F5616::net8.0::robot_application_v1_definitions_tests.ValidationTests.TestModelValidation&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::48CEF680-8E09-45AE-9F72-8228974F5616::net8.0::robot_application_v1_definitions_tests.ValidationTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::48CEF680-8E09-45AE-9F72-8228974F5616::net8.0::robot_application_v1_definitions_tests.AxisUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::88F64FCB-EBE9-4E86-9860-161A8A3874E6::net8.0::robot_application_v1_tests.UnitTests.DbTests.SqlLiteContextUnitTests.Add_ExecutionContext_ReturnStoredData&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::88F64FCB-EBE9-4E86-9860-161A8A3874E6::net8.0::robot_application_v1_tests.UnitTests.DbTests.SqlLiteContextUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::48CEF680-8E09-45AE-9F72-8228974F5616::net8.0::robot_application_v1_definitions_tests.RobotUnitTests.TestUniqueEntry&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::48CEF680-8E09-45AE-9F72-8228974F5616::net8.0::robot_application_v1_definitions_tests.RobotUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::48CEF680-8E09-45AE-9F72-8228974F5616::net8.0::robot_application_v1_definitions_tests.GridUnitTests.TestUniqueEntry&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::88F64FCB-EBE9-4E86-9860-161A8A3874E6::net8.0::robot_application_v1_tests.UnitTests.ControllerTests.RobotControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

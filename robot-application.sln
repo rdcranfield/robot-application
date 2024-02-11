@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robot-application-v1", "robot-application-v1\robot-application-v1.csproj", "{72FF4BEE-7BDE-42D4-BF2A-C9F14AD7308B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robot-application-v1-tests", "robot-application-v1-tests\robot-application-v1-tests.csproj", "{88F64FCB-EBE9-4E86-9860-161A8A3874E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robot-application-v1-definitions", "robot-application-v1-definitions\robot-application-v1-definitions.csproj", "{D8696EE0-C165-4C72-BFB9-2ECE24428339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robot-application-v1-definitions-tests", "robot-application-v1-definitions-tests\robot-application-v1-definitions-tests.csproj", "{48CEF680-8E09-45AE-9F72-8228974F5616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72FF4BEE-7BDE-42D4-BF2A-C9F14AD7308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FF4BEE-7BDE-42D4-BF2A-C9F14AD7308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FF4BEE-7BDE-42D4-BF2A-C9F14AD7308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FF4BEE-7BDE-42D4-BF2A-C9F14AD7308B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F64FCB-EBE9-4E86-9860-161A8A3874E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F64FCB-EBE9-4E86-9860-161A8A3874E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F64FCB-EBE9-4E86-9860-161A8A3874E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F64FCB-EBE9-4E86-9860-161A8A3874E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8696EE0-C165-4C72-BFB9-2ECE24428339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8696EE0-C165-4C72-BFB9-2ECE24428339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8696EE0-C165-4C72-BFB9-2ECE24428339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8696EE0-C165-4C72-BFB9-2ECE24428339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CEF680-8E09-45AE-9F72-8228974F5616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CEF680-8E09-45AE-9F72-8228974F5616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CEF680-8E09-45AE-9F72-8228974F5616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CEF680-8E09-45AE-9F72-8228974F5616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
